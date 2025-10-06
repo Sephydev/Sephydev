@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicolas Bussiere (aka Sephydev)
 
-<!--
-**Sephydev/Sephydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **junior full-stack web developer** from **Liège, Belgium 🇧🇪**.  
+I focus on building **clean, responsive, and user-friendly** web applications using modern technologies.
 
-Here are some ideas to get you started:
+After exploring computer science at university, I completed multiple training programs such as **BeCode**, **FullStackOpen (University of Helsinki)**, and additional self-learning through **The Odin Project** and other resources.  
+I enjoy learning by building real projects and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+**Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools & Others:** Git, GitHub, Linux, Playwright, Figma, Vite  
+
+---
+
+### 💼 What I'm Looking For
+I'm currently searching for my **first professional experience** as a web developer — ideally through a **PFI (Plan Formation Insertion)** opportunity in Belgium.  
+I'm motivated to grow, learn from real projects, and bring value to a development team.
+
+---
+
+### 🌐 Portfolio & Links
+- 🌍 [Portfolio Website](https://portfolio-2025-kappa-weld.vercel.app)  
+- 💼 [LinkedIn](#) *(coming soon)*  
+- 🧑‍💻 [GitHub Projects](https://github.com/Sephydev)
+
+---
+
+### 📫 Contact
+**Email:** sephydev@gmail.com  
+**Location:** Liège, Belgium 🇧🇪  
+
+---
+
+> “Keep learning. Keep building. Keep improving.” 🚀
+
